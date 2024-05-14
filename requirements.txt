@@ -9,4 +9,4 @@ langchain-nomic~=0.0.2
 langchain-cohere~=0.1.4
 langchain-mistralai~=0.1.6
 huggingface-hub~=0.23.0
-transformers~=4.40.2
+transformers~=4.34
